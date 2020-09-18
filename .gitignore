@@ -1,0 +1,6 @@
+server
+.DS_Store
+.idea
+.htaccess
+composer.json
+composer.lock
