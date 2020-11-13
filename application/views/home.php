@@ -1,9 +1,5 @@
 
-    <!--
-    =============================================
-        Theme Main Banner One
-    ==============================================
-    -->
+
     <div class="rogan-hero-section rogan-hero-one pt-300 pb-350 md-pt-200 md-pb-130 pos-r">
         <div class="shape-wrapper">
             <img src="<?php echo __ASSETS_PATH__ . 'ref-theme/'; ?>images/shape/1.svg" alt=""
